@@ -8,3 +8,11 @@ Building rest API to get Prediction values
 • We should be able to invoke one of the six REST APIs deployed using Azure ML through your web app deployed on a cloud environment using a browser.
 • Provide test cases so that we can replicate the test cases.
 • Provide adequate documentation and source code so that we can replicate your setup.
+
+The following are the links to out Rest API:
+http://logregress.azurewebsites.net
+http://linearregression.azurewebsites.net/
+http://randomclassification.azurewebsites.net/
+http://neuralclassification.azurewebsites.net
+http://randomprediction.azurewebsites.net
+http://neuralprediction.azurewebsites.net
