@@ -10,9 +10,23 @@ Building rest API to get Prediction values
 • Provide adequate documentation and source code so that we can replicate your setup.
 
 The following are the links to out Rest API:
+# Logistic Regression
 http://logregress.azurewebsites.net
-http://linearregression.azurewebsites.net/
+
+# Random Forest Classification
 http://randomclassification.azurewebsites.net/
+
+# Neural Classification
 http://neuralclassification.azurewebsites.net
+
+# Random Forest Prediction
+
 http://randomprediction.azurewebsites.net
+
+# Neural Prediction
+
 http://neuralprediction.azurewebsites.net
+
+# Linear Regression
+
+http://linearregression.azurewebsites.net/
